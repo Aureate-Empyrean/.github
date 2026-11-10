@@ -20,8 +20,8 @@ Maturity is stated per application. *Implemented* means working code with automa
 |---|---|---|---|
 | **Empyrean Nexus** | The control plane: authentication, permissions, resource references, events, storage, lifecycle, backup and interoperability. Coordinates the applications without owning their domain data. | Implemented and tested. Pre-release, not security-audited. | [empyrean-nexus](https://github.com/Aureate-Empyrean/empyrean-nexus) |
 | **Mnemosyne** | Notes, tasks, projects and collections, designed around everyday workflows. | Implemented and tested. | [mnemosyne](https://github.com/Aureate-Empyrean/mnemosyne) |
-| **Chronos** | Calendars, events, dates and recurrence. Can read dated items that other applications choose to share. | Implemented and tested. | Repository not yet public |
-| **Meridian** | People, organizations and relationships, with interactions, life events and the context around them. | Implemented and tested. Some planned areas are not built. | Repository not yet public |
+| **Chronos** | Calendars, events, dates and recurrence. Can read dated items that other applications choose to share. | Implemented and tested. | [chronos](https://github.com/Aureate-Empyrean/chronos) |
+| **Meridian** | People, organizations and relationships, with interactions, life events and the context around them. | Implemented and tested. Some planned areas are not built. | [meridian](https://github.com/Aureate-Empyrean/meridian) |
 | **Atlas** | Your personal geographic layer: places, a map, categories and markers. | Early implementation. Areas, routes and collections are not built. | [atlas](https://github.com/Aureate-Empyrean/atlas) |
 | **Argus** | Personally captured photos and media, with bulk import, library backups and optional local face recognition. | Implemented and tested. Recognition is off until you enable it. | [argus](https://github.com/Aureate-Empyrean/argus) |
 | **Lyra** | A personal media library. Films and series are implemented; music and books are planned. | Partially implemented. | [lyra](https://github.com/Aureate-Empyrean/lyra) |
